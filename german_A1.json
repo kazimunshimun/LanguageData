@@ -1,0 +1,202 @@
+[
+    {
+        "word": "Ansage",
+        "article": "die",
+        "translation": "announcement",
+        "pronunciation": "/ˈanˌzaːɡə/",
+        "example": {
+            "text": "Die Ansage am Bahnhof war deutlich.",
+            "translation": "The announcement at the train station was clear."
+        }
+    },
+    {
+        "word": "Anschluss",
+        "article": "der",
+        "translation": "connection",
+        "pronunciation": "/ˈanʃlʊs/",
+        "example": {
+            "text": "Ich habe meinen Anschluss verpasst.",
+            "translation": "I missed my connection."
+        }
+    },
+    {
+        "word": "Antwort",
+        "article": "die",
+        "translation": "answer",
+        "pronunciation": "/ˈantvɔʁt/",
+        "example": {
+            "text": "Sie hat keine Antwort gegeben.",
+            "translation": "She didn't give an answer."
+        }
+    },
+    {
+        "word": "Anzeige",
+        "article": "die",
+        "translation": "advertisement",
+        "pronunciation": "/ˈanˌtsaɪ̯ɡə/",
+        "example": {
+            "text": "Die Anzeige in der Zeitung war interessant.",
+            "translation": "The advertisement in the newspaper was interesting."
+        }
+    },
+    {
+        "word": "Apartment",
+        "article": "das",
+        "translation": "apartment",
+        "pronunciation": "/aˈpaʁtmɛnt/",
+        "example": {
+            "text": "Das Apartment ist sehr klein.",
+            "translation": "The apartment is very small."
+        }
+    },
+    {
+        "word": "Apfel",
+        "article": "der",
+        "translation": "apple",
+        "pronunciation": "/ˈapfəl/",
+        "example": {
+            "text": "Der Apfel ist rot.",
+            "translation": "The apple is red."
+        }
+    },
+    {
+        "word": "Arbeit",
+        "article": "die",
+        "translation": "work",
+        "pronunciation": "/ˈaʁbaɪ̯t/",
+        "example": {
+            "text": "Die Arbeit beginnt um 9 Uhr.",
+            "translation": "Work starts at 9 o'clock."
+        }
+    },
+    {
+        "word": "Arbeitsplatz",
+        "article": "der",
+        "translation": "workplace",
+        "pronunciation": "/ˈaʁbaɪ̯tsˌplats/",
+        "example": {
+            "text": "Mein Arbeitsplatz ist sehr modern.",
+            "translation": "My workplace is very modern."
+        }
+    },
+    {
+        "word": "Arm",
+        "article": "der",
+        "translation": "arm",
+        "pronunciation": "/aʁm/",
+        "example": {
+            "text": "Mein Arm tut weh.",
+            "translation": "My arm hurts."
+        }
+    },
+    {
+        "word": "Arzt",
+        "article": "der",
+        "translation": "doctor",
+        "pronunciation": "/aʁtst/",
+        "example": {
+            "text": "Der Arzt ist sehr freundlich.",
+            "translation": "The doctor is very friendly."
+        }
+    },
+    {
+        "word": "Aufgabe",
+        "article": "die",
+        "translation": "task",
+        "pronunciation": "/ˈaʊ̯fɡaːbə/",
+        "example": {
+            "text": "Die Aufgabe war schwierig.",
+            "translation": "The task was difficult."
+        }
+    },
+    {
+        "word": "Aufzug",
+        "article": "der",
+        "translation": "elevator",
+        "pronunciation": "/ˈaʊ̯fˌt͡suːk/",
+        "example": {
+            "text": "Der Aufzug ist defekt.",
+            "translation": "The elevator is broken."
+        }
+    },
+    {
+        "word": "Auge",
+        "article": "das",
+        "translation": "eye",
+        "pronunciation": "/ˈaʊ̯ɡə/",
+        "example": {
+            "text": "Sein Auge ist blau.",
+            "translation": "His eye is blue."
+        }
+    },
+    {
+        "word": "Ausflug",
+        "article": "der",
+        "translation": "trip",
+        "pronunciation": "/ˈaʊ̯sˌfluːk/",
+        "example": {
+            "text": "Der Ausflug war sehr schön.",
+            "translation": "The trip was very nice."
+        }
+    },
+    {
+        "word": "Ausgang",
+        "article": "der",
+        "translation": "exit",
+        "pronunciation": "/ˈaʊ̯sˌɡaŋ/",
+        "example": {
+            "text": "Wo ist der Ausgang?",
+            "translation": "Where is the exit?"
+        }
+    },
+    {
+        "word": "Auskunft",
+        "article": "die",
+        "translation": "information",
+        "pronunciation": "/ˈaʊ̯sˌkʊnft/",
+        "example": {
+            "text": "Die Auskunft war hilfreich.",
+            "translation": "The information was helpful."
+        }
+    },
+    {
+        "word": "Ausland",
+        "article": "das",
+        "translation": "foreign country",
+        "pronunciation": "/ˈaʊ̯sˌlant/",
+        "example": {
+            "text": "Ich reise gerne ins Ausland.",
+            "translation": "I like to travel abroad."
+        }
+    },
+    {
+        "word": "Ausländer",
+        "article": "der",
+        "translation": "foreigner",
+        "pronunciation": "/ˈaʊ̯sˌlɛndɐ/",
+        "example": {
+            "text": "Er ist ein Ausländer.",
+            "translation": "He is a foreigner."
+        }
+    },
+    {
+        "word": "Aussage",
+        "article": "die",
+        "translation": "statement",
+        "pronunciation": "/ˈaʊ̯sˌzaːɡə/",
+        "example": {
+            "text": "Ihre Aussage war klar.",
+            "translation": "Her statement was clear."
+        }
+    },
+    {
+        "word": "Ausweis",
+        "article": "der",
+        "translation": "ID card",
+        "pronunciation": "/ˈaʊ̯sˌvaɪ̯s/",
+        "example": {
+            "text": "Ich habe meinen Ausweis verloren.",
+            "translation": "I lost my ID card."
+        }
+    }
+]
